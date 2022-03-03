@@ -1,16 +1,14 @@
-# Hello World
+# Hello Gaess
 
-A new Flutter project.
+projek flutter baru.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ini adalah projek flutter yaitu aplikasi telkomsel.
 
-A few resources to get you started if this is your first Flutter project:
+untuk link flutlab:
+- https://flutlab.io/ide/a8eb88b7-8b8f-4a97-9c3b-ee11270d7509
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+semoga harimu menyenangkan.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+gambar:
